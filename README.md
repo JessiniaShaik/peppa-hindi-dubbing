@@ -163,7 +163,7 @@ LLM post-processing** — use Claude or GPT for more contextually natural transl
 Lip sync** — use Wav2Lip to align mouth movements with dubbed audio
 
 
-## 💡 Key Learning Points
+ Key Learning Points
 
 - Real-world AI pipelines require handling many dependency conflicts
 - Simple approaches often work better than complex ones when dependencies are problematic
